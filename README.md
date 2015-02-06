@@ -16,20 +16,20 @@ Simple 2-d side scrolling game.
   
 #Tasks
 -GameWindow class
-   - main menu/select difficulty
-   - Java applet window 
-   - allow screen to pop up and load an image
+  - main menu/select difficulty
+  - Java applet window 
+  - allow screen to pop up and load an image
 -Player class
-   - implements position on graph
+  - implements position on graph
 -Enemy class
-   - Different types of enemies
+  - Different types of enemies
 -collisions class
-   - player interacting with environment such as ledges/ladders/doors
-   - Bullet collision detection/ bullet movement
+  - player interacting with environment such as ledges/ladders/doors
+  - Bullet collision detection/ bullet movement
 -Environment class
-   - ladders/ledges
-   - background
-   - designed in tiles/ means of creating set tiles that are randomly generated (research)
+  - ladders/ledges
+  - background
+  - designed in tiles/ means of creating set tiles that are randomly generated (research)
 -Character class
   - name player
   - design player
